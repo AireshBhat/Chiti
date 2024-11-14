@@ -3,7 +3,7 @@ Please refer to the first document [0_Protocol.md](./0_Protocol.md) for a detail
 
 ## User Interface
 The user interface elements are generally encoded as a schema. This allows each application to attach their own "themes" to the UI elements allowing diversity in expression. A general schema may be implemented by the network for others to fork and modify.
-* HTTP gateways - The end goal is to move identities onto a decentralised network. However, in order to reach out to the audience of today, interoperability with todays data is a must. The APIs built allow an individuals data/journal entries to be accessible via today modern browsers. This is generally done by creating RPCs to access the identities journal and a store maintaining the list of peer IDs along with their capabilities while accessing the store.
+* HTTP gateways - The end goal is to move identities onto a decentralised network. However, in order to reach out to the audience of today, interoperability with todays data is a must. The APIs built allow an individuals data/journal entries to be accessible via todays modern browsers. This is generally done by creating RPCs to access the identities journal and a store maintaining the list of peer IDs along with their capabilities while accessing the store.
 * Routing APIs - APIs identity nodes might have to implement (https://specs.ipfs.tech/routing/http-routing-v1/)
 
 # Data formats
@@ -31,5 +31,8 @@ sha1|                           multihash|      0x11|           permanent
 sha2-256|                       multihash|      0x12|           permanent
 
 ## Core schema
-<!-- 
-The genesis point/origin for the projects technical specification is recorded itself as a CID. The schema of the core entities defined in this project  -->
+
+## Guru - Shishya relationship to data and information
+A Guru (teacher) gives deeksha of a mantra to a student (shishya). This deeksha generally contains a mantra, a string of words that the shishya can use to understand its essence. Data relationship in this protocol is made to mimic this analogy. Data is generally encrypted by its creator using a private key. 
+
+### Identity
