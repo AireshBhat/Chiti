@@ -1,3 +1,10 @@
+***
+
+# WARNING...
+This project has been moved to the [Decentralised Autonomous Institution/Chiti](https://github.com/Decentralised-Autonomous-Institutions/Chiti) folder.
+
+***
+
 > Where the mind is without fear and the head is held high; <br>
 > Where knowledge is free; <br>
 > Where the world has not been broken up into fragments by narrow domestic walls; <br>
@@ -15,9 +22,9 @@ Decentralised networks require decentralised Identities. Most identity solutions
 
 Identity is made up of Human personality, soul, and character, all distinct from one another. The soul Identity constitutes the Chiti. It is generally made up of the ideals that make up an individual soul or a nation. Chiti, the soul identity or innate nature of an identity is constant. Or we can say, alterations to one’s idea’s ideals rarely change over a given lifetime. As we can see in our society, changing the nature of an individual is a tough task!
 
-Personality results from a cumulative effect of all the actions, thoughts, and impressions of an individual. To store this personality as a digital identity requires the use of new age digital storage tools such as CIDs as identifiers for data, Consensus protocols that decide on an agreed time tracking mechanism for the network, Data Finalisation protocols to store an immutable of latest version of an identity, Public-Private Keys and signing protocols for accessing the digital identity.
+Personality or Culture results from a cumulative effect of all the actions, thoughts, and impressions of an individual or nation. To store this personality as a digital identity requires the use of new age digital storage tools such as CIDs as identifiers for data, Consensus protocols that decide on an agreed time tracking mechanism for the network, Data Finalisation protocols to store an immutable of latest version of an identity, Public-Private Keys and signing protocols for accessing the digital identity.
 
-Character or Culture is the accumulated knowledge of the identity. Whatever is in accordance with our Chiti is added on to Culture. In the digital world, this is equivalent to signing a piece of information using a Digital Identity, a.k.a private key. Done in the form of a protocol, networks can maintain network culture through digital means effortlessly and for negligible costs. Chiti acts as a standard for assessing the culture of an identity.
+Character is the accumulated knowledge of the identity. Whatever is in accordance with our Chiti is added on to Culture. Hence, Chiti acts as a standard for assessing the action of an identity.
 
 This project aims create a library that helps applications integrate this identity protocol into a suit of APIs to build truly decentralised digital solutions.
 
